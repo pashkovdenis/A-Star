@@ -1,0 +1,8 @@
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\bin\Debug\netcoreapp3.0\AStarPathFinder.deps.json
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\bin\Debug\netcoreapp3.0\AStarPathFinder.dll
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\bin\Debug\netcoreapp3.0\AStarPathFinder.pdb
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\obj\Debug\netcoreapp3.0\AStarPathFinder.csprojAssemblyReference.cache
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\obj\Debug\netcoreapp3.0\AStarPathFinder.AssemblyInfoInputs.cache
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\obj\Debug\netcoreapp3.0\AStarPathFinder.AssemblyInfo.cs
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\obj\Debug\netcoreapp3.0\AStarPathFinder.dll
+C:\Users\pashk\OneDrive\Desktop\23\AStarPathFinder\obj\Debug\netcoreapp3.0\AStarPathFinder.pdb

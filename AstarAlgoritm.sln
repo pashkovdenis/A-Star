@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstarAlgoritm", "AstarAlgoritm\AstarAlgoritm.csproj", "{E2FDB300-73B9-430E-B05E-502C3501101D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStarPathFinder", "AStarPathFinder\AStarPathFinder.csproj", "{226F1199-D08B-4C79-A058-236709E648E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2FDB300-73B9-430E-B05E-502C3501101D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FDB300-73B9-430E-B05E-502C3501101D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FDB300-73B9-430E-B05E-502C3501101D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FDB300-73B9-430E-B05E-502C3501101D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226F1199-D08B-4C79-A058-236709E648E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226F1199-D08B-4C79-A058-236709E648E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226F1199-D08B-4C79-A058-236709E648E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226F1199-D08B-4C79-A058-236709E648E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341AA3DA-8554-497B-82DB-355D942AFDB7}
+	EndGlobalSection
+EndGlobal

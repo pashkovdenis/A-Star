@@ -1,0 +1,13 @@
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\bin\Release\netcoreapp2.0\AstarAlgoritm.deps.json
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\bin\Release\netcoreapp2.0\AstarAlgoritm.runtimeconfig.json
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\bin\Release\netcoreapp2.0\AstarAlgoritm.runtimeconfig.dev.json
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\bin\Release\netcoreapp2.0\AstarAlgoritm.dll
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\bin\Release\netcoreapp2.0\AstarAlgoritm.pdb
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\bin\Release\netcoreapp2.0\AStarPathFinder.dll
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\bin\Release\netcoreapp2.0\AStarPathFinder.pdb
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\obj\Release\netcoreapp2.0\AstarAlgoritm.csprojAssemblyReference.cache
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\obj\Release\netcoreapp2.0\AstarAlgoritm.AssemblyInfoInputs.cache
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\obj\Release\netcoreapp2.0\AstarAlgoritm.AssemblyInfo.cs
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\obj\Release\netcoreapp2.0\AstarAlgoritm.csproj.CopyComplete
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\obj\Release\netcoreapp2.0\AstarAlgoritm.dll
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AstarAlgoritm\obj\Release\netcoreapp2.0\AstarAlgoritm.pdb

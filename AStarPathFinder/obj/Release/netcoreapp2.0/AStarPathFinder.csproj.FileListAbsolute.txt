@@ -1,0 +1,8 @@
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\bin\Release\netcoreapp2.0\AStarPathFinder.deps.json
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\bin\Release\netcoreapp2.0\AStarPathFinder.dll
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\bin\Release\netcoreapp2.0\AStarPathFinder.pdb
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\obj\Release\netcoreapp2.0\AStarPathFinder.csprojAssemblyReference.cache
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\obj\Release\netcoreapp2.0\AStarPathFinder.AssemblyInfoInputs.cache
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\obj\Release\netcoreapp2.0\AStarPathFinder.AssemblyInfo.cs
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\obj\Release\netcoreapp2.0\AStarPathFinder.dll
+C:\Users\S.Dobranos\Desktop\AStartImplementation\AStarPathFinder\obj\Release\netcoreapp2.0\AStarPathFinder.pdb
